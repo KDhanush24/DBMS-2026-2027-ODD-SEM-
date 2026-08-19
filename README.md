@@ -87,7 +87,7 @@ This folder contains:
 
 **Dhanush Reddy**
 
-B.Tech CSE Student
+B.Tech CS&IT Student
 
 ---
 
